@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: project2
-        image: mano127/project2
+        image: mano127/project2intellipaat
         ports:
         - containerPort: 80
